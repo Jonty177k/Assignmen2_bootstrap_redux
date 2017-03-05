@@ -1,0 +1,9 @@
+.thumbnail {
+	border-style: solid;
+	border: 2px;
+	background-color: #f3f3f3;
+	border-radius: 9px;
+}
+h2 {
+  font-family: 'Tangerine', serif;	
+}
